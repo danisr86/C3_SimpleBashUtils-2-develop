@@ -1,0 +1,10 @@
+This is a^Itest file.
+It contains^Iseveral lines.
+Some lines^Ihave the word 'pattern' in them.
+pattern
+Another line without^Ithe keyword.
+Empty lines follow.
+
+pattern^Iat the end.
+
+END
